@@ -15,7 +15,7 @@ u = input("enter your username: ")
 p = getpass("enter your password: ")
 print(log(u,p))
 print("your age is " + str(ki['Age']))
-# other most perfact login is now you shoing
+# other most perfact
 hg = {
 'usr1':{
 'name':'rajdip',
